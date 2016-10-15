@@ -3,4 +3,4 @@
 
 I do this exercise in php.
 
-There are two classes: Restriccion and PicoPlaca and index to see the tests.
+There are three classes: Restriccion, PicoPlaca and Comprobacion; and index file to see the tests.
